@@ -1,0 +1,6 @@
+>>> INSTALL PYTHON BEFORE USING
+>>> Download Python here:
+        Microsoft Store:   https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5?hl=de-de&gl=de
+        OR
+        Website: https://www.python.org/ftp/python/3.10.3/python-3.10.3-amd64.exe
+
