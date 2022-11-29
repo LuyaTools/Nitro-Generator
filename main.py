@@ -8,6 +8,8 @@ import random
 import string
 import os
 
+os.system("title Nitro Generator [ https://blizz.cf/ ]")
+
 def clear():
     os.system("cls")
 
