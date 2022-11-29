@@ -6,6 +6,7 @@ from colorama import Fore
 import requests  #code checking libary
 import random
 import string
+import os
 
 def clear():
     os.system("cls")
